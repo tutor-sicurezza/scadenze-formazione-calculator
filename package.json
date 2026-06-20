@@ -1,0 +1,38 @@
+{
+  "name": "scadenze-formazione-calculator",
+  "version": "1.0.0",
+  "description": "Calcolatore delle scadenze di aggiornamento dei corsi di formazione per la sicurezza sul lavoro italiana (D.Lgs 81/08, Accordi Stato-Regioni).",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "node --import tsx test.ts"
+  },
+  "files": [
+    "src/",
+    "dist/",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "sicurezza-lavoro",
+    "dlgs-81-08",
+    "formazione",
+    "scadenze",
+    "calculator",
+    "italia",
+    "rspp",
+    "rls",
+    "preposti"
+  ],
+  "license": "MIT",
+  "author": "tutor-sicurezza",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tutor-sicurezza/scadenze-formazione-calculator"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0",
+    "tsx": "^4.7.0"
+  }
+}
