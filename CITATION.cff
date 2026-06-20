@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this library, please cite it as below."
+title: "scadenze-formazione-calculator: calcolo scadenze formazione D.Lgs 81/08"
+abstract: "Libreria TypeScript/JavaScript pura, zero dipendenze, per calcolare le scadenze di aggiornamento dei corsi di formazione per la sicurezza sul lavoro in Italia secondo il D.Lgs 81/08 e gli Accordi Stato-Regioni applicabili."
+authors:
+  - family-names: "Tutor Sicurezza"
+    given-names: "123Formazione"
+    website: "https://123formazione.com"
+repository-code: "https://github.com/tutor-sicurezza/scadenze-formazione-calculator"
+url: "https://123formazione.com"
+license: MIT
+date-released: "2026-06-20"
+version: "1.0.0"
+keywords:
+  - "italy"
+  - "compliance"
+  - "dlgs-81-08"
+  - "sicurezza-lavoro"
+  - "training-management"
+  - "formazione"
+  - "typescript"
+  - "calculator"
+  - "zero-dependencies"

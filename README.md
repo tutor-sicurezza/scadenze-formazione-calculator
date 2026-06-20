@@ -2,6 +2,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![npm version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/tutor-sicurezza/scadenze-formazione-calculator)
+[![GitHub release](https://img.shields.io/github/v/release/tutor-sicurezza/scadenze-formazione-calculator)](https://github.com/tutor-sicurezza/scadenze-formazione-calculator/releases)
+[![GitHub stars](https://img.shields.io/github/stars/tutor-sicurezza/scadenze-formazione-calculator?style=social)](https://github.com/tutor-sicurezza/scadenze-formazione-calculator/stargazers)
+[![CI](https://github.com/tutor-sicurezza/scadenze-formazione-calculator/actions/workflows/ci.yml/badge.svg)](https://github.com/tutor-sicurezza/scadenze-formazione-calculator/actions/workflows/ci.yml)
 
 Libreria TypeScript/JavaScript pura per calcolare le **scadenze di aggiornamento** dei corsi di formazione per la sicurezza sul lavoro in Italia, secondo il **D.Lgs 81/08** e gli **Accordi Stato-Regioni** applicabili.
 
