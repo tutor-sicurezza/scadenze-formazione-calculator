@@ -1,0 +1,49 @@
+{
+  "title": "Scadenze Formazione Calculator — calcolo scadenze formazione sicurezza D.Lgs 81/08",
+  "description": "Libreria JavaScript/TypeScript per il calcolo deterministico delle scadenze di aggiornamento dei corsi di formazione sulla sicurezza sul lavoro previsti dall’Accordo Stato-Regioni Rep. 78/CSR del 17 aprile 2025 e dal D.Lgs 81/08. Supporta RSPP, RLS, datori di lavoro, lavoratori, preposti, dirigenti, addetti antincendio e primo soccorso.",
+  "upload_type": "software",
+  "license": "MIT",
+  "access_right": "open",
+  "language": "ita",
+  "keywords": [
+    "italy",
+    "sicurezza-lavoro",
+    "formazione",
+    "scadenze",
+    "rspp",
+    "rls",
+    "dlgs-81-08",
+    "accordo-stato-regioni",
+    "compliance",
+    "typescript"
+  ],
+  "creators": [
+    {
+      "name": "123Formazione",
+      "affiliation": "CDS SERVICE SIC-LAV S.R.L.",
+      "orcid": null
+    }
+  ],
+  "communities": [
+    {"identifier": "open-data"},
+    {"identifier": "legal-informatics"}
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/tutor-sicurezza/scadenze-formazione-calculator",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://123formazione.com",
+      "relation": "isPartOf",
+      "scheme": "url"
+    }
+  ],
+  "references": [
+    "D.Lgs 9 aprile 2008 n. 81 — Testo Unico Sicurezza Lavoro",
+    "Accordo Stato-Regioni Rep. 78/CSR del 17 aprile 2025",
+    "Accordo Stato-Regioni 21 dicembre 2011 (formazione lavoratori)"
+  ],
+  "publication_date": "2026-06-23"
+}
